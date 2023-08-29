@@ -13,18 +13,6 @@ Hello! I'm Muhammad Ahsan, a dedicated and enthusiastic web developer with a pas
 
 I hold an advanced diploma in Computer Programming and Analysis from Seneca College, Toronto. My mission is to contribute my skills and creativity to a dynamic team, fostering innovation and driving impactful solutions. Proficient in a variety of technologies, including Angular, React, .NET, Node.js, Linux, and Bootstrap, I bring a well-rounded skillset to the table. I thrive in collaborative environments and am excited to join a high-performing team to make a real difference.
 
-## Experience
-
-### Research Analyst
-*Seneca College, Toronto, ON*
-- Translated complex data and research outcomes into actionable formats for clients.
-- Collaborated with cross-functional teams to enhance existing systems.
-- Optimized SQL database queries, boosting search efficiency by 15%.
-
-### Office Assistant - IT Department
-*Attock Piling, Dubai, U.A.E*
-- Assisted in day-to-day IT operations, including system maintenance and troubleshooting.
-- Managed O365/M365 environments, resolving issues and providing comprehensive assistance.
 
 ## Projects
 
@@ -46,11 +34,6 @@ I hold an advanced diploma in Computer Programming and Analysis from Seneca Coll
   - Improved productivity by over 30% with the innovative calendar rest API.
   - Technologies used: Angular, Node.js, MongoDB, TypeScript, Webpack.
 
-## Education
-
-- **Advanced Diploma in Computer Programming and Analysis**
-  - Seneca College, Honors List, Summer 2021
-  - GPA: 4.0
 
 ## Skills
 
