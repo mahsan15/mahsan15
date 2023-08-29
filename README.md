@@ -17,24 +17,15 @@ I hold an advanced diploma in Computer Programming and Analysis from Seneca Coll
 
 ## Projects
 
-- **Bronx-Burgers (React NodeJs)**
-  - Developed and delivered a high-performance burger ordering app using React and Node.js.
-  - Implemented user authentication, cart management, and payment processing functionalities.
-  - Collaborated closely with the client to ensure seamless project execution.
-  - Technologies used: React, Node.js, MongoDB, HTML.
+-Certainly! Here's your project information presented in a table format:
 
-- **Music Biz (ASP.NET)**
-  - Created a role-based .NET music app with Front-End and Back-End components.
-  - Utilized service-oriented architecture and MySQL for data storage.
-  - Managed artist details, tracks, and albums, categorized by genre.
-  - Technologies used: ASP.NET, MySQL.
+| Project Name          | Description                                                                                             | Technologies Used                                                        | Links                                           |
+|-----------------------|---------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------|
+| Bronx-Burgers         | Developed a high-performance burger ordering app with React and Node.js. Implemented authentication, cart management, and payments. | React, Node.js, MongoDB, HTML                                           | [GitHub](bronxburger-production.up.railway.app/) |
+| Music Biz             | Created a role-based .NET music app with Front-End and Back-End components. Managed artist details, tracks, and albums by genre.      | ASP.NET, MySQL                                                           | [GitHub](muhammadahsan01-001-site1.dtempurl.com/) |
+| Prime Calendar        | Led a team to develop an online studying aid app using Angular, Node.js, and various technologies. Improved productivity by over 30%.   | Angular, Node.js, MongoDB, TypeScript, Webpack, Babel, SASS/LESS, REST API | [GitHub](fascinating-meringue-45e4dd.netlify.app/) |
 
-- **Prime Calendar (Angular NodeJs) - Collaborative Project**
-  - Led a team in developing a user-friendly online studying aid application using Angular, Node.js, and various technologies.
-  - Utilized REST API, MongoDB, and relational data structures.
-  - Improved productivity by over 30% with the innovative calendar rest API.
-  - Technologies used: Angular, Node.js, MongoDB, TypeScript, Webpack.
-
+Feel free to include this table in your GitHub Readme page for a neat and organized display of your projects!
 
 ## Skills
 
